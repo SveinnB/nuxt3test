@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="home-page">
-      <h1>Þetta er geggjað - Svenni</h1>
+      <h1>Þetta er geggjað - Svenni Þetta er með SSR: false</h1>
       <h2>
         Click on the buttons below to check out a server route or an API route
         :)
