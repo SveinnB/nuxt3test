@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - svenni/**
+  workflow_dispatch:
 
 jobs:
   build_and_deploy_job:
