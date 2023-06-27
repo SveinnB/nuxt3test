@@ -4,9 +4,6 @@
   "description": "My Nuxt 3 Test",
   "author": "Nuzhat Minhaz",
   "private": true,
-  "engines": {
-    "node": ">=18.0.0"
-  },
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
